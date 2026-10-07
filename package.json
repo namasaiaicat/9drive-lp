@@ -1,7 +1,15 @@
 {
-  "name": "9drive-landing-page",
+  "name": "9drive-lp",
   "version": "1.0.0",
+  "description": "Landing page for 9Drive - self-hosted Google Drive alternative",
+  "private": true,
   "type": "module",
+  "license": "MIT",
+  "homepage": "https://9drive.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namasaiaicat/9drive-lp.git"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
